@@ -10,27 +10,9 @@ BloodSharp's Virtual Machine or BloodVM is a project which emulate a new imagina
 + Generate an instruction encoder, decoder and functions markers to protect custom functions sections in custom software.
 + Add support for 64 bits and other architectures.
 
-# Demo
-First make sure to disable ASLR (Properties -> Linker -> Advanced -> Dynamic base -> NO)
-![ASLR Image](Images/ASLR.png)
-
-## Test
-The original output:
-
-![Original Output](Images/OriginalOutput.png)
-
-The original reverse engineered code:
-
-![Original Ghidra code](Images/Original.png)
-
-## Test Encrypted
-The encrypted output:
-
-![Encrypted Output](Images/EncryptedOutput.png)
-
-The encrypted reverse engineered code:
-
-![Encrypted Ghidra code](Images/Encrypted.png)
+## Demo (old images)
+![Virtual function result](https://i.imgur.com/je32h4J.png)
+![Disassembled Ghidra result](https://i.imgur.com/fBG9JZ3.png)
 
 
 B#
