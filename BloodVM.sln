@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BloodVM", "BloodVM\BloodVM.vcxproj", "{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Debug|x64.ActiveCfg = Debug|x64
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Debug|x64.Build.0 = Debug|x64
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Debug|x86.Build.0 = Debug|Win32
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Release|x64.ActiveCfg = Release|x64
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Release|x64.Build.0 = Release|x64
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Release|x86.ActiveCfg = Release|Win32
+		{2C02B0F2-5413-4A8B-B8BC-BC5D6FFFE235}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16578E1-0AD8-4F5F-9B3E-9DE50CBB9C32}
+	EndGlobalSection
+EndGlobal
